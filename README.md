@@ -8,13 +8,13 @@ For this project I used [Lighttpd] (https://www.lighttpd.net) as the websever, i
 
 ## How it works
 The website is composed of different HTML pages
-### - index.html
+### index.html
 The main page that loads on startup. You can change it to put whatever you want in it, here I've put a Carousel slideshow with bootstrap.
-### - dashboard.html
+### dashboard.html
 This is where all your buttons and controls will be.
-### - streaming.html
+### streaming.html
 Here you'll find your Pi's webcam streaming video, for this to work you must change the code in streaming.html page: in the iframe tag go to the src attribute and change <Your Pi's IP Here> with your Pi's IP.
-### - about.html
+### about.html
 Here you can put information about your project and its version.
 ##License
 This project is licensed under the terms of the MIT license.
