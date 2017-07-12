@@ -1,7 +1,7 @@
 Issues with this version:
 
 *When reloading the page the images come back to their initial state 
-and doesn't sync 
+and doesn't sync. 
 
 *For the moment I can't use gpio shell commands to read an input on the gpio 
 then serve it on the webpage.
