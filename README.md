@@ -8,12 +8,17 @@ Not using higher level languages as Python for example, this makes the Pi very r
 The website is composed of different HTML pages
 ### index.html
 The main page that loads on startup. You can change it to put whatever you want in it, here I've put a Carousel slideshow with bootstrap.
+
 ![Image of Yaktocat](screenshots/home.png)
 ### dashboard.html
 This is where all your buttons and controls will be.
+![Image of Yaktocat](screenshots/dashboard.png)
 ### streaming.html
 Here you'll find your Pi's webcam streaming video, for this to work you must change the code in streaming.html page: in the iframe tag go to the src attribute and change <Your Pi's IP Here> with your Pi's IP.
+
+![Image of Yaktocat](screenshots/streaming.png)
 ### about.html
 Here you can put information about your project and its version.
+![Image of Yaktocat](screenshots/about.png)
 ##License
 This project is licensed under the terms of the MIT license.
