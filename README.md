@@ -20,5 +20,5 @@ Here you'll find your Pi's webcam streaming video, for this to work you must cha
 ### about.html
 Here you can put information about your project and its version.
 ![Image of Yaktocat](screenshots/about.png)
-##License
+## License
 This project is licensed under the terms of the MIT license.
