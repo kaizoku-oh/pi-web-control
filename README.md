@@ -4,7 +4,7 @@ Is a web interface to controle the raspberry pi GPIOs via a webserver.
 The idea is to control anything connected to GPIOs, using low level commands written with shell scripts commanded straight from a HTML webpage.
 
 ## Known issues
-This code is more suitable for robot control than home automation because it's about controlling the Pi outputs.
+This code is more suitable for robot control than home automation because it's about controlling the Pi outputs and reading and monitoring the inputs.
 When reloading the page the images come back to their initial state and doesn't sync.
 For the moment I can't use gpio shell commands to read an input on the gpio then serve it on the webpage. 
 So this Method is only for controlling outputs. 
