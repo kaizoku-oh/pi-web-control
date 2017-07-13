@@ -1,0 +1,13 @@
+Issues with this version:
+
+*When reloading the page the images come back to their initial state 
+and doesn't sync. 
+
+*For the moment I can't use gpio shell commands to read an input on the gpio 
+then serve it on the webpage.
+
+*So this Method is only for controlling outputs.
+
+*for reading inputs you might want to use flask or node js
+
+*The only input here is the webcam video streaming
